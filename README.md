@@ -1,2 +1,5 @@
-# CSE-341-Homeworks
- CSE 341 Programming Languages course homeworks in GTU
+# Grades
+hw1 - 97\
+hw2 - 100\
+hw3 - 65\
+hw4 - 100 
